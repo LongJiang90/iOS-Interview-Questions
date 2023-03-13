@@ -12,6 +12,10 @@
 	通过webVIew调用 webView stringByEvaluatingJavaScriptFromString: 调用
 	
 	通过JSContext调用[context evaluateScript:];
+	
+	WKUIDelegate 方法
+	
+	MessageHandler 方法
 
 ## 2.在使用 WKWedView 时遇到过哪些问题？
 
